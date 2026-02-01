@@ -1,0 +1,26 @@
+{
+  "name": "arox-bot",
+  "version": "1.0.0",
+  "description": "a discord economy bot!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "npm install"
+  },
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.6",
+    "@types/node": "^18.0.6",
+    "aoi.js": "^6.11.1",
+    "aoi.mongo": "github:faf4a/aoi.mongo",
+    "canvacord": "^6.0.2",
+    "canvafy": "^7.2.1",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "author": "lawerth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawerth/Arox-Bot/issues"
+  }
+}

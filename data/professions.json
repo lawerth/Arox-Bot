@@ -1,0 +1,145 @@
+{
+  "0": [
+    {
+      "name": ["Dilenci", "Beggar", "Bettler"],
+      "emoji": "<:Beggar:1139282605238403133>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139282605238403133.webp",
+      "price": 0,
+      "requiredWorkingCount": 50,
+      "income": [
+        {
+          "hourly": 30,
+          "daily": 720,
+          "weekly": 5040
+        }
+      ]
+    }
+  ],
+  "1": [
+    {
+      "name": ["İnşaatçı", "Builder", "Bauarbeiter"],
+      "emoji": "<:Builder:1139282744648683530>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139282744648683530.webp",
+      "price": 20000,
+      "requiredWorkingCount": 5,
+      "income": [
+        {
+          "hourly": 100,
+          "daily": 2400,
+          "weekly": 16800
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "name": ["Kasiyer", "Cashier", "Kassierer"],
+      "emoji": "<:Cashier:1139282820414586930>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139282820414586930.webp",
+      "price": 40000,
+      "requiredWorkingCount": 5,
+      "income": [
+        {
+          "hourly": 250,
+          "daily": 6000,
+          "weekly": 42000
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "name": ["Tamirci", "Mechanic", "Mechaniker"],
+      "emoji": "<:Mechanic:1139282854107431043>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139282854107431043.webp",
+      "price": 60000,
+      "requiredWorkingCount": 6,
+      "income": [
+        {
+          "hourly": 400,
+          "daily": 9600,
+          "weekly": 67400
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "name": ["İtfaiye", "Firefighter", "Feuerwehrmann"],
+      "emoji": "<:Firefighter:1139282898512519238>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139282898512519238.webp",
+      "price": 80000,
+      "requiredWorkingCount": 6,
+      "income": [
+        {
+          "hourly": 600,
+          "daily": 14400,
+          "weekly": 100800
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "name": ["Polis", "Police", "Polizist"],
+      "emoji": "<:Police:1139283023909630017>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139283023909630017.webp",
+      "price": 120000,
+      "requiredWorkingCount": 7,
+      "income": [
+        {
+          "hourly": 900,
+          "daily": 21600,
+          "weekly": 151200
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "name": ["Doktor", "Doctor", "Arzt"],
+      "emoji": "<:Doctor:1139283040573591683>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139283040573591683.webp",
+      "price": 150000,
+      "requiredWorkingCount": 8,
+      "income": [
+        {
+          "hourly": 1500,
+          "daily": 36000,
+          "weekly": 252000
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "name": ["Pilot", "Pilot", "Pilot"],
+      "emoji": "<:Pilot:1139283057849937930>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139283057849937930.webp",
+      "price": 250000,
+      "requiredWorkingCount": 10,
+      "income": [
+        {
+          "hourly": 2100,
+          "daily": 50400,
+          "weekly": 352800
+        }
+      ]
+    }
+  ],
+  "8": [
+    {
+      "name": ["Yazılımcı", "Programmer", "Programmierer"],
+      "emoji": "<:Programmer:1139283073721176105>",
+      "emojiURL": "https://cdn.discordapp.com/emojis/1139283073721176105.webp",
+      "price": 350000,
+      "income": [
+        {
+          "hourly": 2300,
+          "daily": 55200,
+          "weekly": 386400
+        }
+      ]
+    }
+  ]
+}

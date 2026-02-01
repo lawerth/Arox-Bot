@@ -1,0 +1,173 @@
+{
+  "100": [
+    {
+      "name": ["Varsayılan", "Default", "Standard"],
+      "url": "https://aroxbot.vercel.app/backgrounds/100.jpg",
+      "no": 100,
+      "filePath": "./data/backgrounds/100.jpg",
+      "price": 0
+    }
+  ],
+  "101": [
+    {
+      "name": ["Arkaplan #1", "Background #1", "Hintergrund #1"],
+      "url": "https://aroxbot.vercel.app/backgrounds/101.jpg",
+      "no": 101,
+      "filePath": "./data/backgrounds/101.jpg",
+      "price": 50000
+    }
+  ],
+  "102": [
+    {
+      "name": ["Arkaplan #2", "Background #2", "Hintergrund #2"],
+      "url": "https://aroxbot.vercel.app/backgrounds/102.jpg",
+      "no": 102,
+      "filePath": "./data/backgrounds/102.jpg",
+      "price": 50000
+    }
+  ],
+  "103": [
+    {
+      "name": ["Arkaplan #3", "Background #3", "Hintergrund #3"],
+      "url": "https://aroxbot.vercel.app/backgrounds/103.jpg",
+      "no": 103,
+      "filePath": "./data/backgrounds/103.jpg",
+      "price": 50000
+    }
+  ],
+  "104": [
+    {
+      "name": ["Arkaplan #4", "Background #4", "Hintergrund #4"],
+      "url": "https://aroxbot.vercel.app/backgrounds/104.jpg",
+      "no": 104,
+      "filePath": "./data/backgrounds/104.jpg",
+      "price": 50000
+    }
+  ],
+  "105": [
+    {
+      "name": ["Arkaplan #5", "Background #5", "Hintergrund #5"],
+      "url": "https://aroxbot.vercel.app/backgrounds/105.jpg",
+      "no": 105,
+      "filePath": "./data/backgrounds/105.jpg",
+      "price": 50000
+    }
+  ],
+  "106": [
+    {
+      "name": ["Arkaplan #6", "Background #6", "Hintergrund #6"],
+      "url": "https://aroxbot.vercel.app/backgrounds/106.jpg",
+      "no": 106,
+      "filePath": "./data/backgrounds/106.jpg",
+      "price": 50000
+    }
+  ],
+  "107": [
+    {
+      "name": ["Arkaplan #7", "Background #7", "Hintergrund #7"],
+      "url": "https://aroxbot.vercel.app/backgrounds/107.jpg",
+      "no": 107,
+      "filePath": "./data/backgrounds/107.jpg",
+      "price": 50000
+    }
+  ],
+  "108": [
+    {
+      "name": ["Arkaplan #8", "Background #8", "Hintergrund #8"],
+      "url": "https://aroxbot.vercel.app/backgrounds/108.jpg",
+      "no": 108,
+      "filePath": "./data/backgrounds/108.jpg",
+      "price": 50000
+    }
+  ],
+  "109": [
+    {
+      "name": ["Arkaplan #9", "Background #9", "Hintergrund #9"],
+      "url": "https://aroxbot.vercel.app/backgrounds/109.jpg",
+      "no": 109,
+      "filePath": "./data/backgrounds/109.jpg",
+      "price": 50000
+    }
+  ],
+  "110": [
+    {
+      "name": ["Arkaplan #10", "Background #10", "Hintergrund #10"],
+      "url": "https://aroxbot.vercel.app/backgrounds/110.jpg",
+      "no": 110,
+      "filePath": "./data/backgrounds/110.jpg",
+      "price": 50000
+    }
+  ],
+  "111": [
+    {
+      "name": ["Gökyüzü", "Sky", "Himmel"],
+      "url": "https://aroxbot.vercel.app/backgrounds/111.jpg",
+      "no": 111,
+      "filePath": "./data/backgrounds/111.jpg",
+      "price": 80000
+    }
+  ],
+  "112": [
+    {
+      "name": ["Modern Şehir", "Modern City", "Moderne Stadt"],
+      "url": "https://aroxbot.vercel.app/backgrounds/112.jpg",
+      "no": 112,
+      "filePath": "./data/backgrounds/112.jpg",
+      "price": 80000
+    }
+  ],
+  "113": [
+    {
+      "name": ["Piramitler", "Pyramids", "Pyramiden"],
+      "url": "https://aroxbot.vercel.app/backgrounds/113.jpg",
+      "no": 113,
+      "filePath": "./data/backgrounds/113.jpg",
+      "price": 80000
+    }
+  ],
+  "114": [
+    {
+      "name": ["Çöl", "Desert", "Wüste"],
+      "url": "https://aroxbot.vercel.app/backgrounds/114.jpg",
+      "no": 114,
+      "filePath": "./data/backgrounds/114.jpg",
+      "price": 80000
+    }
+  ],
+  "115": [
+    {
+      "name": ["Bitkiler", "Plants", "Pflanzen"],
+      "url": "https://aroxbot.vercel.app/backgrounds/115.jpg",
+      "no": 115,
+      "filePath": "./data/backgrounds/115.jpg",
+      "price": 80000
+    }
+  ],
+  "116": [
+    {
+      "name": ["Kedi", "Cat", "Katze"],
+      "url": "https://aroxbot.vercel.app/backgrounds/116.jpg",
+      "no": 116,
+      "filePath": "./data/backgrounds/116.jpg",
+      "price": 80000
+    }
+  ],
+  "117": [
+    {
+      "name": ["Yanardağ", "Volcano", "Vulkan"],
+      "url": "https://aroxbot.vercel.app/backgrounds/117.jpg",
+      "no": 117,
+      "filePath": "./data/backgrounds/117.jpg",
+      "price": 80000
+    }
+  ],
+  "118": [
+    {
+      "name": ["Uzay", "Space", "Weltraum"],
+      "url": "https://aroxbot.vercel.app/backgrounds/118.jpg",
+      "no": 118,
+      "filePath": "./data/backgrounds/118.jpg",
+      "price": 80000
+    }
+  ]
+}

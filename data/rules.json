@@ -1,0 +1,23 @@
+{
+  "tr": [
+    "Botta bulunan herhangi bir ürünün ticaretini yapmak yasaktır.",
+    "Botta bulunan hataları geliştiricilere bildirmeyip, kendi yararınıza kullanmanız yasaktır.",
+    "Otomatik olarak botta gelişmenizi sağlayacak yazılım dosyaları kullanmanız yasaktır.",
+    "Botta elde ettiğiniz verilerin, geleceğe dair hiçbir garantisi bulunmamaktadır. Botun amacı ve işleyiş şekli herhangi bir zamanda değiştirilebilir.",
+    "<:Uyari:1109498587081084938> *Burada yazılı olan kuralların ihlal edilmesi sonucunda sınırsız karaliste veya gerekli cezalandırmalar ile karşılaşabilirsiniz!*\n\n・Herhangi bir sorununuz var ise **[destek sunucumuza](https://discord.gg/SQwdQMDz9S)** katılabilirsiniz!"
+  ],
+  "en": [
+    "It is prohibited to trade any items found in the bot.",
+    "It is prohibited to exploit bugs in the bot for your own benefit without reporting them to the developers.",
+    "It is prohibited to use software files that automatically enhance your progress in the bot.",
+    "There is no guarantee for the data you obtain in the bot regarding the future. The purpose and operation of the bot can be changed at any time.",
+    "<:Warning:1109498587081084938> *Violating the rules written here may result in a permanent blacklist or necessary penalties!*\n\n・If you have any issues, you can join our **[support server](https://discord.gg/SQwdQMDz9S)**!"
+  ],
+  "de": [
+    "Es ist verboten, mit jeglichen Produkten des Bots Handel zu treiben.",
+    "Es ist verboten, Fehler im Bot zu deinem eigenen Vorteil zu nutzen, anstatt sie den Entwicklern zu melden.",
+    "Es ist verboten, Software oder Skripte zu verwenden, die dein Fortschritt im Bot automatisch verbessern.",
+    "Die im Bot erzielten Daten bieten keine Garantie für die Zukunft. Der Zweck und die Funktionsweise des Bots können jederzeit geändert werden.",
+    "<:Warnung:1109498587081084938> *Ein Verstoß gegen die hier aufgeführten Regeln kann zu einem permanenten Blacklist-Eintrag oder anderen Strafen führen!*\n\n・Bei Problemen kannst du unserem **[Support-Server](https://discord.gg/SQwdQMDz9S)** beitreten!"
+  ]
+}

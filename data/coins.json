@@ -1,0 +1,37 @@
+{
+    "0": {
+        "name": "Bitcoin",
+        "code": "btc",
+        "emoji": "<:Bitcoin:1064159459460517958>",
+        "startValue": 500000,
+        "volatility": 0.05
+    },
+    "1": {
+        "name": "Ethereum",
+        "code": "eth",
+        "emoji": "<:Ethereum:1064159581141483550>",
+        "startValue": 100000,
+        "volatility": 0.07
+    },
+    "2": {
+        "name": "Binance",
+        "code": "bnb",
+        "emoji": "<:Binance:1064159601630646363>",
+        "startValue": 40000,
+        "volatility": 0.06
+    },
+    "3": {
+        "name": "Solana",
+        "code": "sol",
+        "emoji": "<:Solana:1249350502538416198>",
+        "startValue": 25000,
+        "volatility": 0.1
+    },
+    "4": {
+        "name": "Tether",
+        "code": "tet",
+        "emoji": "<:Tether:1064159710850318446>",
+        "startValue": 7000,
+        "volatility": 0.01
+    }
+}

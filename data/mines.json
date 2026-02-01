@@ -1,0 +1,66 @@
+{
+  "stone": [
+    {
+      "name": ["Taş", "Stone", "Stein"],
+      "emoji": "<:Stone:1099018038562533497>",
+      "value": 1,
+      "chance": 42
+    }
+  ],
+  "coal": [
+    {
+      "name": ["Kömür", "Coal", "Kohle"],
+      "emoji": "<:Coal:1123332875689918575>",
+      "value": 30,
+      "chance": 20
+    }
+  ],
+  "copper": [
+    {
+      "name": ["Bakır", "Copper", "Kupfer"],
+      "emoji": "<:Copper:1123332918572503111>",
+      "value": 50,
+      "chance": 15
+    }
+  ],
+  "ruby": [
+    {
+      "name": ["Yakut", "Ruby", "Rubin"],
+      "emoji": "<:Ruby:1123332961941586052>",
+      "value": 100,
+      "chance": 10
+    }
+  ],
+  "emerald": [
+    {
+      "name": ["Zümrüt", "Emerald", "Smaragd"],
+      "emoji": "<:Emerald:1123333008343191634>",
+      "value": 750,
+      "chance": 5
+    }
+  ],
+  "iron": [
+    {
+      "name": ["Demir", "Iron", "Eisen"],
+      "emoji": "<:Iron:1123333035409027133>",
+      "value": 5000,
+      "chance": 4
+    }
+  ],
+  "gold": [
+    {
+      "name": ["Altın", "Gold", "Goldbarren"],
+      "emoji": "<:Gold:1123333060193173574>",
+      "value": 10000,
+      "chance": 3
+    }
+  ],
+  "diamond": [
+    {
+      "name": ["Elmas", "Diamond", "Diamant"],
+      "emoji": "<:Diamond:1123333083345731634>",
+      "value": 50000,
+      "chance": 1
+    }
+  ]
+}

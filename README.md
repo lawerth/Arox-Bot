@@ -12,7 +12,7 @@
     </p>
 </div>
 
-#### ⚠️ This project represents the legacy source of the **Arox** Discord bot. This infrastructure was once actively used but is no longer maintained. The project is developed using the [aoi.js](https://aoi.js.org/) library and provides a comprehensive virtual economy system.
+#### ⚠️ This project represents the legacy source of the **Arox** Discord bot. This source was once actively used but is no longer maintained. The project is developed using the [aoi.js](https://aoi.js.org/) library and provides a comprehensive virtual economy system.
 
 # 🚀 Features
 - **Economy System**: Balance management, daily rewards, banking operations, transfers, and leaderboards

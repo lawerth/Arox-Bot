@@ -12,6 +12,7 @@
     </p>
 </div>
 
+
 #### ⚠️ This project represents the legacy source of the **Arox** Discord bot. This source was once actively used but is no longer maintained. The project is developed using the [aoi.js](https://aoi.js.org/) library and provides a comprehensive virtual economy system.
 
 # 🚀 Features

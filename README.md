@@ -49,7 +49,6 @@ Arox-Bot/
 ```
 
 # 🏠 Self Hosting
-
 1. Clone: `git clone https://github.com/lawerth/Arox-Bot.git && cd Arox-Bot`
 2. Install: `npm install`
 3. Create `.env` file with:

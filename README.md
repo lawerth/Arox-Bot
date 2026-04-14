@@ -47,6 +47,19 @@ Arox-Bot/
 └── README.md          # This file
 ```
 
+# 🏠 Self Hosting
+
+1. Clone: `git clone https://github.com/lawerth/Arox-Bot.git && cd Arox-Bot`
+2. Install: `npm install`
+3. Create `.env` file with:
+   ```
+   TOKEN=your_bot_token
+   MONGODB_URI=your_mongodb_uri
+   ```
+4. Run: `npm start`
+
+**Requirements**: Node.js 16+, MongoDB
+
 # 📝 Incomplete Updates
 - [ ] `commands/market/stock market/stockmarket.js` is not completed.
 - [ ] `commands/admin/coinsData.js` is not completed.

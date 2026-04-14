@@ -12,6 +12,7 @@
     </p>
 </div>
 
+
 #### ⚠️ This project represents the legacy source of the **Arox** Discord bot. This source was once actively used but is no longer maintained. The project is developed using the [aoi.js](https://aoi.js.org/) library and provides a comprehensive virtual economy system.
 
 # 🚀 Features
@@ -72,5 +73,5 @@ Arox-Bot/
 
 <div align="center">
     <h1>⭐ Star This Project</h1>
-    <p>Developed by <a href="https://github.com/lawerth">Lawerth</a> and <a href="https://github.com/fhyrox">Fhyrox</a> for over 2 years ❤️</p>
+    <p>Developed by <a href="https://github.com/lawerth">Lawerth</a> and <a href="https://github.com/frovela">Frovela</a> for over 2 years ❤️</p>
 </div>
